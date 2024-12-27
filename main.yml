@@ -40,3 +40,4 @@ jobs:
         run: |
           echo "Deploying application..."
           # Add deployment script here
+          python3 test.py
